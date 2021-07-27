@@ -1,7 +1,7 @@
 {
-  "login":true;
+  "login":true,
   "msg":{
-    "show":false;
+    "show":false,
     "text":""
   }
 }
