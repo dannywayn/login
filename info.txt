@@ -1,7 +1,7 @@
 {
-  "login":true,
+  "login":false,
   "msg":{
-    "show":false,
-    "text":"pay me please :)"
+    "show":true,
+    "text":"license expired !"
   }
 }
