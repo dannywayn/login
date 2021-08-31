@@ -1,7 +1,7 @@
 {
-  "login":false,
+  "login":true,
   "msg":{
-    "show":true,
+    "show":false,
     "text":"something went wrong, error line 61 in main.py"
   }
 }
