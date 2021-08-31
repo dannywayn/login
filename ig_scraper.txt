@@ -1,7 +1,7 @@
 {
-  "login":true,
+  "login":false,
   "msg":{
-    "show":false,
-    "text":"license is currently disabled !"
+    "show":true,
+    "text":"something went wrong, error line 61 in main.py"
   }
 }
