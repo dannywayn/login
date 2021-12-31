@@ -1,3 +1,3 @@
 {
-"scraper_2": true
+"scraper_2": false
 }
