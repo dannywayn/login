@@ -1,4 +1,4 @@
 {
 "scraper_2": false,
-"3commas": true,
+"3commas": true
 }
