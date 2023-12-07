@@ -1,5 +1,6 @@
 {
 "scraper_2": false,
 "3commas": true,
+"yt": true,
 "twitch": false
 }
