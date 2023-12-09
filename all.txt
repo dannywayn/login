@@ -2,5 +2,6 @@
 "scraper_2": false,
 "3commas": true,
 "yt": true,
+"spin": true,
 "twitch": false
 }
