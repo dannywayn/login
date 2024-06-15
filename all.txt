@@ -1,7 +1,7 @@
 {
 "scraper_2": false,
 "3commas": true,
-"yt": false,
+"yt": true,
 "spin": true,
 "twitch": false
 }
