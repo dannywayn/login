@@ -3,5 +3,6 @@
 "3commas": true,
 "yt": true,
 "spin": true,
-"twitch": false
+"twitch": false,
+"warmup": true
 }
